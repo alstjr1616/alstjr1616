@@ -1,16 +1,31 @@
-## Hello, World! 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:E8E4F3,50:F4E7EC,100:F7EBCF&height=220&text=%F0%9F%91%8B%20Welcome%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF)
 
-<!--
-**alstjr1616/alstjr1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+- 🎓 Computer Engineering Student at Hanbat National University
+- 🔬 Undergraduate Researcher @ EcoAI Lab
+- 🌱 Learning and exploring various areas of Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🔎 Interests
+
+- Artificial Intelligence
+- Data Analysis
+- Machine Learning
+- Embedded Systems
+
+<br>
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Algorithms
+- Data Processing & Analysis
+- Research Methodology
+
+<br>
+
+## 📌 Projects
+
+More projects coming soon.
